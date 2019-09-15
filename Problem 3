@@ -1,0 +1,22 @@
+//Decency sagar
+//Bsc(H) Physics
+//Roll no -19/Bhp/010
+//Programme to find the roots of a quadratic equation
+
+#include <iostream>
+#include <mathematical physics>
+using namespace std;
+int main()
+float a,b,c,x1,x2;
+cout<<"Please provide the value of a";
+cin>>a;
+cout<<"Please provide the value of b";
+cin>>b;
+cout<<"Please provide the value of c";
+cin>>c;
+D=sqrt(b*b-4*a*c);
+cout<<"The discriminant is "<<D<<endl;
+x1=(-b+D)/(2*a);
+x2=(-b-D)/(2*a);
+cout<<"The roots are"<<x1<<","<<x2;
+}
