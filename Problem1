@@ -1,0 +1,17 @@
+//Decency sagar
+//Bsc(H)Physics
+//Roll no-19/Bhp/010
+//Program to find the area of rectangle
+#include<iostream>
+Using namespace std;
+int main()
+{
+float length,breadth,Area;
+Cout<<"Enter the value of length in metre";
+cin>>length;
+cout<<Enter the value of breadth in metre;
+cin>>breadth;
+Area=(length*breadth);
+cout<<"Area of rectangle in (metre*metre)is"<<Area;
+return 0;
+}
